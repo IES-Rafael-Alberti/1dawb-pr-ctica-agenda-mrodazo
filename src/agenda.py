@@ -77,7 +77,8 @@ def agenda(contactos: list):
         mostrar_menu()
         opcion = pedir_opcion()
 
-        #TODO: Se valorará que utilices la diferencia simétrica de conjuntos para comprobar que la opción es un número entero del 1 al 6
+        #TODO: Se valorará que utilices la diferencia simétrica de conjuntos para comprobar que la opción es un número entero del 1 al 7
+        #Bouza dice que tenemos que quitar al conjunto 1 (del 1 al 8) restarle un segundo conjunto (8) y con eso sale (opciones_menu-8)
         if opcion in ?:
 
 
